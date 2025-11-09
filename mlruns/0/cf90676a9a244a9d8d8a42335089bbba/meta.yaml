@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/subha/mlops_project_water_potatbility_detection/mlruns/0/cf90676a9a244a9d8d8a42335089bbba/artifacts
+deleted_time: 1762669619985
+end_time: 1762666837787
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: cf90676a9a244a9d8d8a42335089bbba
+run_name: sincere-carp-152
+run_uuid: cf90676a9a244a9d8d8a42335089bbba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762666837696
+status: 3
+tags: []
+user_id: subha
